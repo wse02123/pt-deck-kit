@@ -1,0 +1,18 @@
+# 개인 자료는 올리지 않는다
+my/*
+!my/README.md
+!my/samples/
+my/samples/*
+!my/samples/.gitkeep
+
+# 작업 산출물
+output/
+*.pdf
+*.pptx
+
+# OS·에디터
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
